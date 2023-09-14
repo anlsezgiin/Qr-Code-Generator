@@ -1,5 +1,5 @@
 # Qr-Code-Generator
-Qr code generator, built with node.js, npm packages.
+Qr code generator, built with node.js, express.js, EJS, npm packages.
 
 - npm init -y
 - npm i qr-image
