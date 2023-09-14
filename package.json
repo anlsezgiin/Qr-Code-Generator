@@ -1,7 +1,7 @@
 {
   "name": "qr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Qr code generator, built with node.js, npm packages.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
     "inquirer": "^9.2.11",
     "qr-image": "^3.2.0"
   }
